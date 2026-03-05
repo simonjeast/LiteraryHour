@@ -1,10 +1,10 @@
 ﻿# Literary Time Landing Page
 
 ## Client
-Maya (student who wanted a simple literary-themed landing page for quick reading breaks).
+Sarah (student who wanted a simple literary-themed landing page for quick reading breaks).
 
 ## Project Description
-This project is a lightweight one-page site built with HTML, CSS, and a small amount of JavaScript for dynamic behavior. The page centers the current time in bold text, shows a literary quote below it, and includes a direct link to the quote's source material.
+This project is a one-page site built with HTML, CSS, and a small amount of JavaScript for dynamic behavior. The page centers the current time in bold text, shows a literary quote below it, and includes a direct link to the quote's source material.
 
 ## Features
 - Live time display in the center of the page
@@ -16,13 +16,10 @@ This project is a lightweight one-page site built with HTML, CSS, and a small am
 - Mobile-friendly, responsive layout
 
 ## Tech Stack
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Vanilla JavaScript (for time updates, quote/background selection, and refresh scheduling)
 
-## Live Site
-Add your deployed GitHub Pages URL here after publishing:
-- `https://<your-username>.github.io/<repo-name>/`
 
 ## File Overview
 - `index.html` - semantic page structure
