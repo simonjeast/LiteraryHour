@@ -1,0 +1,27 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Literary Hour</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="landing" aria-live="polite">
+      <h1 id="time" class="time">--:--:--</h1>
+
+      <figure class="quote-block">
+        <blockquote id="quote-text"></blockquote>
+        <figcaption>
+          <span id="quote-author"></span>
+          <a id="quote-link" href="#" target="_blank" rel="noopener noreferrer"></a>
+        </figcaption>
+      </figure>
+
+      <button id="refresh-btn" type="button">Refresh now</button>
+    </main>
+    <p class="hint">This page auto-refreshes at the top of each hour.</p>
+
+    <script src="script.js"></script>
+  </body>
+</html>
