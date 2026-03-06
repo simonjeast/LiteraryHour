@@ -1,4 +1,6 @@
-﻿# Literary Time Landing Page
+https://simonjeast.github.io/LiteraryHour/
+ 
+ # Literary Time Landing Page
 
 ## Client
 Sarah (student who wanted a simple literary-themed landing page for quick reading breaks).
