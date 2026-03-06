@@ -11,15 +11,11 @@
 **Key action:** Click into the source text and continue reading the original work.
 
 **Pages/sections needed:**
-- Main hero section with live time centered on screen
+- Main section with live time centered on screen
 - Quote section under the time
 - Source link for each quote
 - Small manual refresh control
 
-**Content status:**
-- Confirmed: quote list and source links to public-domain editions
-- Confirmed: simple one-page layout
-- Needed later: final GitHub Pages URL for submission in README
 
 **Style preferences:**
 - Minimal and readable
@@ -34,22 +30,22 @@
 
 ## Scope and Build Plan
 
-### Milestone 0: Discovery and Proposal
+### Discovery and Proposal
 - Capture client goals and audience
 - Define required content and style direction
 - Finalize single-page scope
 
-### Milestone 1: Structure and Content
+### Structure and Content
 - Build semantic HTML structure
 - Add live time container and quote/source elements
 - Insert quote data with valid external links
 
-### Milestone 2: Styling and Dynamic Behavior
+### Styling and Dynamic Behavior
 - Add external CSS for centered layout and responsive behavior
 - Apply rotating scenic gradient backgrounds
 - Add hourly auto-refresh and manual refresh button
 
-### Milestone 3: Review and Polish
-- Verify mobile readability and spacing
+### Review and Polish
+- Verify mobile readability and spacing after latest class (Session 13)
 - Check link accessibility and keyboard focus behavior
 - Finalize documentation in README and deploy to GitHub Pages
